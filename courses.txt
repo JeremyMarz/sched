@@ -1,3 +1,4 @@
-CMSC 1113 Programming I
+CMSC 1113 Programming I – this is pretty easy
 CMSC 1123 Programming II
+
 
